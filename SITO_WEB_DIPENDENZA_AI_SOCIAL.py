@@ -13,6 +13,7 @@ m<!DOCTYPE html>
     <img src="https://media.licdn.com/dms/image/v2/D4D12AQG7xl7ShIVfEQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1727283619095?e=2147483647&v=beta&t=dUEryGqYA3NfFrv522ZrUo8pgGw9FunqicBuNhRgL7w" alt="Image 2">
     <img src="https://www.ipsico.it/wp-content/uploads/2021/03/dipendenza-social-network.jpg" alt="Image 3">
     <iframe src="https://www.meteoblue.com/it/tempo/widget/daily?geoloc=detect&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=1&winddirection=1&uv=0&humidity=0&precipitation=1&precipitationprobability=1&spot=1&pressure=1&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 378px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/it/tempo/settimana/index?utm_source=daily_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+    <iframe src="https://calendar.google.com/calendar/embed?src=turricianoc%40gmail.com&ctz=Europe%2FRome" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     <h2>Cosa ci impedisce di fare?</h2>
              <ul>
                    <li>Conoscere altre persone dal vivo e non tramite i social o tramite internet</li>
