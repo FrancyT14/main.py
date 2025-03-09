@@ -97,3 +97,15 @@ h1 {
   h1:hover { 
     font-size: 40px;
   } 
+
+  h2:hover { 
+    animation: color-change 10s infinite; 
+    font-size: 40px;
+  } 
+
+  h3:hover { 
+    animation: color-change 10s infinite; 
+    font-size: 40px;
+  } 
+
+
